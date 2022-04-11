@@ -1,2 +1,3 @@
-# rub_frontend
-RUB FrontEnd
+# RUB FrontEnd
+ReactJS
+Tailwind
